@@ -1,2 +1,0 @@
-# AliviaTes
-Percobaan membuat repository
